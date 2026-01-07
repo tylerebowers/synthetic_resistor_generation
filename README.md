@@ -1,4 +1,7 @@
 # Synthetic Resistor Generation
+
+![](images/6.png)
+
 This repo contains a python script `main.py` that uses blenderproc to render resistors for ML datasets. 
 
 Running the script resusts in `bands.json` which is a list of the bands per image, and a folder `images/` which contains the rendered images. An example is provided.

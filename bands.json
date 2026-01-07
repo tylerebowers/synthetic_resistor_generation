@@ -1,0 +1,95 @@
+[
+    {
+        "file": "images/0.png",
+        "bands": [
+            "black",
+            "red",
+            "brown",
+            "gray",
+            "green",
+            "orange"
+        ]
+    },
+    {
+        "file": "images/1.png",
+        "bands": [
+            "blue",
+            "black",
+            "black",
+            "silver"
+        ]
+    },
+    {
+        "file": "images/2.png",
+        "bands": [
+            "orange",
+            "gold",
+            "gray",
+            "green",
+            "yellow",
+            "white"
+        ]
+    },
+    {
+        "file": "images/3.png",
+        "bands": [
+            "green",
+            "red",
+            "brown",
+            "white"
+        ]
+    },
+    {
+        "file": "images/4.png",
+        "bands": [
+            "silver",
+            "gray",
+            "green"
+        ]
+    },
+    {
+        "file": "images/5.png",
+        "bands": [
+            "silver",
+            "gold",
+            "red"
+        ]
+    },
+    {
+        "file": "images/6.png",
+        "bands": [
+            "orange",
+            "yellow",
+            "black",
+            "white",
+            "blue",
+            "white"
+        ]
+    },
+    {
+        "file": "images/7.png",
+        "bands": [
+            "silver",
+            "green",
+            "blue",
+            "brown"
+        ]
+    },
+    {
+        "file": "images/8.png",
+        "bands": [
+            "white",
+            "gray",
+            "red",
+            "green"
+        ]
+    },
+    {
+        "file": "images/9.png",
+        "bands": [
+            "gold",
+            "silver",
+            "white"
+        ]
+    }
+]
